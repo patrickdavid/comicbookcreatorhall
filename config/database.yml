@@ -1,7 +1,0 @@
-development:
-  adapter: postgresql
-  database: comic_book_creator_hall_development
-
-test:
-  adapter: postgresql
-  database: comic_book_creator_hall_test
